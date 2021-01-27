@@ -19,7 +19,6 @@
     "utils.js"
   ],
   "scripts": {
-    "postinstall": "./scripts/postinstall.js",
     "test": "./tests/run-tests.sh"
   },
   "dependencies": {
